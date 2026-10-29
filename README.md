@@ -62,3 +62,6 @@ The following tests were performed in Cisco Packet Tracer:
 Cybersecurity and Networking Student
 
 *This project is a simulated enterprise security lab created for practical learning and portfolio development.*
+### Network Topology
+
+![Enterprise Network Security Topology](Network%20topology%20screenshot.png)
